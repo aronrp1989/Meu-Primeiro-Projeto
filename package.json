@@ -1,0 +1,22 @@
+{
+  "name": "meu-primeiro-projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aronrp1989/Meu-Primeiro-Projeto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/aronrp1989/Meu-Primeiro-Projeto/issues"
+  },
+  "homepage": "https://github.com/aronrp1989/Meu-Primeiro-Projeto#readme"
+}
